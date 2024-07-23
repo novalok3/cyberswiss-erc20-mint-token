@@ -1,0 +1,1 @@
+# cyberswiss-erc20-mint-token
