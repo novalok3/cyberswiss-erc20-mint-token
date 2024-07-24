@@ -104,3 +104,5 @@ npm run transfer
 - Open the deployed-adddress.ts (location in utils folder)
 - Copy the address and paste the address in testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
+
+0xc06C070042564129e77e1AF442ec749a240A26F0
